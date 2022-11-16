@@ -1,0 +1,15 @@
+body {
+    background-image: none;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.my-info{
+    color:rgb(24, 23, 26);
+    font-family: Comic 'Times New Roman', Times, serif;
+}
+td{
+    background-color: rgb(209, 14, 14);
+    color: black;
+}

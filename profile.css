@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content h1 {
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 5px darkgray;
+}
+
+.content p {
+    margin-top: 5%;
+    font-size: 20px;
+    text-align: center;
+    text-overflow:inherit;
+    color:darkgreen;
+    text-shadow: 1px 1px 3px darkgray;
+}
+
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container h3 {
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    color: rgb(234, 25, 25);
+    text-shadow: 2px 2px 5px darkgray;
+}
